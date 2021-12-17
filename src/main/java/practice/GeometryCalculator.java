@@ -7,7 +7,7 @@ public class GeometryCalculator {
         return 0.0;
     }
 
-    // метод должен использовать абсолютное значение radius
+    // если значение radius меньше 0, метод должен вернуть -1
     public static double getSphereVolume(double radius) {
         return 0.0;
     }
